@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: 8d7a58d6d882ada4c839eb5a8d44f67f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bar_curved
+    100002: bar_curved 1
+    100004: bar_curved 2
+    100006: bar_curved 3
+    100008: bracket
+    100010: bracket 1
+    100012: bracket 2
+    100014: bracket 3
+    100016: crossbar
+    100018: crossbar 1
+    100020: crossbar 2
+    100022: crossbar 3
+    100024: //RootNode
+    100026: Fence_Gate_Security_Vehicle
+    100028: Fence_Gate_Security_Vehicle 1
+    100030: gate
+    100032: gate 1
+    100034: group_0
+    100036: ID105
+    100038: ID113
+    100040: ID123
+    100042: ID131
+    100044: ID139
+    100046: ID147
+    100048: ID155
+    100050: ID16
+    100052: ID16 1
+    100054: ID16 10
+    100056: ID16 11
+    100058: ID16 12
+    100060: ID16 13
+    100062: ID16 14
+    100064: ID16 15
+    100066: ID16 16
+    100068: ID16 17
+    100070: ID16 18
+    100072: ID16 19
+    100074: ID16 2
+    100076: ID16 20
+    100078: ID16 21
+    100080: ID16 22
+    100082: ID16 23
+    100084: ID16 24
+    100086: ID16 25
+    100088: ID16 26
+    100090: ID16 27
+    100092: ID16 28
+    100094: ID16 29
+    100096: ID16 3
+    100098: ID16 30
+    100100: ID16 31
+    100102: ID16 32
+    100104: ID16 33
+    100106: ID16 34
+    100108: ID16 35
+    100110: ID16 4
+    100112: ID16 5
+    100114: ID16 6
+    100116: ID16 7
+    100118: ID16 8
+    100120: ID16 9
+    100122: ID161
+    100124: ID169
+    100126: ID177
+    100128: ID183
+    100130: ID187
+    100132: ID191
+    100134: ID195
+    100136: ID199
+    100138: ID97
+    100140: instance_0
+    100142: instance_1
+    100144: instance_1 1
+    100146: instance_10
+    100148: instance_10 1
+    100150: instance_11
+    100152: instance_11 1
+    100154: instance_12
+    100156: instance_12 1
+    100158: instance_13
+    100160: instance_13 1
+    100162: instance_14
+    100164: instance_14 1
+    100166: instance_15
+    100168: instance_15 1
+    100170: instance_16
+    100172: instance_16 1
+    100174: instance_17
+    100176: instance_17 1
+    100178: instance_18
+    100180: instance_18 1
+    100182: instance_19
+    100184: instance_19 1
+    100186: instance_2
+    100188: instance_2 1
+    100190: instance_20
+    100192: instance_20 1
+    100194: instance_21
+    100196: instance_21 1
+    100198: instance_22
+    100200: instance_22 1
+    100202: instance_23
+    100204: instance_23 1
+    100206: instance_24
+    100208: instance_24 1
+    100210: instance_25
+    100212: instance_25 1
+    100214: instance_26
+    100216: instance_26 1
+    100218: instance_27
+    100220: instance_27 1
+    100222: instance_28
+    100224: instance_3
+    100226: instance_3 1
+    100228: instance_4
+    100230: instance_4 1
+    100232: instance_5
+    100234: instance_5 1
+    100236: instance_6
+    100238: instance_6 1
+    100240: instance_7
+    100242: instance_7 1
+    100244: instance_8
+    100246: instance_8 1
+    100248: instance_9
+    100250: instance_9 1
+    100252: post
+    100254: post 1
+    100256: post 2
+    100258: post 3
+    100260: post 4
+    100262: post 5
+    100264: rail_1
+    100266: rail_1 1
+    100268: rail_1 10
+    100270: rail_1 11
+    100272: rail_1 12
+    100274: rail_1 13
+    100276: rail_1 14
+    100278: rail_1 15
+    100280: rail_1 16
+    100282: rail_1 17
+    100284: rail_1 18
+    100286: rail_1 19
+    100288: rail_1 2
+    100290: rail_1 20
+    100292: rail_1 21
+    100294: rail_1 22
+    100296: rail_1 23
+    100298: rail_1 24
+    100300: rail_1 25
+    100302: rail_1 26
+    100304: rail_1 27
+    100306: rail_1 28
+    100308: rail_1 29
+    100310: rail_1 3
+    100312: rail_1 30
+    100314: rail_1 31
+    100316: rail_1 32
+    100318: rail_1 33
+    100320: rail_1 34
+    100322: rail_1 35
+    100324: rail_1 4
+    100326: rail_1 5
+    100328: rail_1 6
+    100330: rail_1 7
+    100332: rail_1 8
+    100334: rail_1 9
+    400000: bar_curved
+    400002: bar_curved 1
+    400004: bar_curved 2
+    400006: bar_curved 3
+    400008: bracket
+    400010: bracket 1
+    400012: bracket 2
+    400014: bracket 3
+    400016: crossbar
+    400018: crossbar 1
+    400020: crossbar 2
+    400022: crossbar 3
+    400024: //RootNode
+    400026: Fence_Gate_Security_Vehicle
+    400028: Fence_Gate_Security_Vehicle 1
+    400030: gate
+    400032: gate 1
+    400034: group_0
+    400036: ID105
+    400038: ID113
+    400040: ID123
+    400042: ID131
+    400044: ID139
+    400046: ID147
+    400048: ID155
+    400050: ID16
+    400052: ID16 1
+    400054: ID16 10
+    400056: ID16 11
+    400058: ID16 12
+    400060: ID16 13
+    400062: ID16 14
+    400064: ID16 15
+    400066: ID16 16
+    400068: ID16 17
+    400070: ID16 18
+    400072: ID16 19
+    400074: ID16 2
+    400076: ID16 20
+    400078: ID16 21
+    400080: ID16 22
+    400082: ID16 23
+    400084: ID16 24
+    400086: ID16 25
+    400088: ID16 26
+    400090: ID16 27
+    400092: ID16 28
+    400094: ID16 29
+    400096: ID16 3
+    400098: ID16 30
+    400100: ID16 31
+    400102: ID16 32
+    400104: ID16 33
+    400106: ID16 34
+    400108: ID16 35
+    400110: ID16 4
+    400112: ID16 5
+    400114: ID16 6
+    400116: ID16 7
+    400118: ID16 8
+    400120: ID16 9
+    400122: ID161
+    400124: ID169
+    400126: ID177
+    400128: ID183
+    400130: ID187
+    400132: ID191
+    400134: ID195
+    400136: ID199
+    400138: ID97
+    400140: instance_0
+    400142: instance_1
+    400144: instance_1 1
+    400146: instance_10
+    400148: instance_10 1
+    400150: instance_11
+    400152: instance_11 1
+    400154: instance_12
+    400156: instance_12 1
+    400158: instance_13
+    400160: instance_13 1
+    400162: instance_14
+    400164: instance_14 1
+    400166: instance_15
+    400168: instance_15 1
+    400170: instance_16
+    400172: instance_16 1
+    400174: instance_17
+    400176: instance_17 1
+    400178: instance_18
+    400180: instance_18 1
+    400182: instance_19
+    400184: instance_19 1
+    400186: instance_2
+    400188: instance_2 1
+    400190: instance_20
+    400192: instance_20 1
+    400194: instance_21
+    400196: instance_21 1
+    400198: instance_22
+    400200: instance_22 1
+    400202: instance_23
+    400204: instance_23 1
+    400206: instance_24
+    400208: instance_24 1
+    400210: instance_25
+    400212: instance_25 1
+    400214: instance_26
+    400216: instance_26 1
+    400218: instance_27
+    400220: instance_27 1
+    400222: instance_28
+    400224: instance_3
+    400226: instance_3 1
+    400228: instance_4
+    400230: instance_4 1
+    400232: instance_5
+    400234: instance_5 1
+    400236: instance_6
+    400238: instance_6 1
+    400240: instance_7
+    400242: instance_7 1
+    400244: instance_8
+    400246: instance_8 1
+    400248: instance_9
+    400250: instance_9 1
+    400252: post
+    400254: post 1
+    400256: post 2
+    400258: post 3
+    400260: post 4
+    400262: post 5
+    400264: rail_1
+    400266: rail_1 1
+    400268: rail_1 10
+    400270: rail_1 11
+    400272: rail_1 12
+    400274: rail_1 13
+    400276: rail_1 14
+    400278: rail_1 15
+    400280: rail_1 16
+    400282: rail_1 17
+    400284: rail_1 18
+    400286: rail_1 19
+    400288: rail_1 2
+    400290: rail_1 20
+    400292: rail_1 21
+    400294: rail_1 22
+    400296: rail_1 23
+    400298: rail_1 24
+    400300: rail_1 25
+    400302: rail_1 26
+    400304: rail_1 27
+    400306: rail_1 28
+    400308: rail_1 29
+    400310: rail_1 3
+    400312: rail_1 30
+    400314: rail_1 31
+    400316: rail_1 32
+    400318: rail_1 33
+    400320: rail_1 34
+    400322: rail_1 35
+    400324: rail_1 4
+    400326: rail_1 5
+    400328: rail_1 6
+    400330: rail_1 7
+    400332: rail_1 8
+    400334: rail_1 9
+    2300000: bar_curved
+    2300002: bar_curved 1
+    2300004: bar_curved 2
+    2300006: bar_curved 3
+    2300008: bracket
+    2300010: bracket 1
+    2300012: bracket 2
+    2300014: bracket 3
+    2300016: crossbar
+    2300018: crossbar 1
+    2300020: crossbar 2
+    2300022: crossbar 3
+    2300024: //RootNode
+    2300026: ID105
+    2300028: ID113
+    2300030: ID123
+    2300032: ID131
+    2300034: ID139
+    2300036: ID147
+    2300038: ID155
+    2300040: ID16
+    2300042: ID16 1
+    2300044: ID16 10
+    2300046: ID16 11
+    2300048: ID16 12
+    2300050: ID16 13
+    2300052: ID16 14
+    2300054: ID16 15
+    2300056: ID16 16
+    2300058: ID16 17
+    2300060: ID16 18
+    2300062: ID16 19
+    2300064: ID16 2
+    2300066: ID16 20
+    2300068: ID16 21
+    2300070: ID16 22
+    2300072: ID16 23
+    2300074: ID16 24
+    2300076: ID16 25
+    2300078: ID16 26
+    2300080: ID16 27
+    2300082: ID16 28
+    2300084: ID16 29
+    2300086: ID16 3
+    2300088: ID16 30
+    2300090: ID16 31
+    2300092: ID16 32
+    2300094: ID16 33
+    2300096: ID16 34
+    2300098: ID16 35
+    2300100: ID16 4
+    2300102: ID16 5
+    2300104: ID16 6
+    2300106: ID16 7
+    2300108: ID16 8
+    2300110: ID16 9
+    2300112: ID161
+    2300114: ID169
+    2300116: ID97
+    2300118: post
+    2300120: post 1
+    2300122: post 2
+    2300124: post 3
+    2300126: post 4
+    2300128: post 5
+    2300130: rail_1
+    2300132: rail_1 1
+    2300134: rail_1 10
+    2300136: rail_1 11
+    2300138: rail_1 12
+    2300140: rail_1 13
+    2300142: rail_1 14
+    2300144: rail_1 15
+    2300146: rail_1 16
+    2300148: rail_1 17
+    2300150: rail_1 18
+    2300152: rail_1 19
+    2300154: rail_1 2
+    2300156: rail_1 20
+    2300158: rail_1 21
+    2300160: rail_1 22
+    2300162: rail_1 23
+    2300164: rail_1 24
+    2300166: rail_1 25
+    2300168: rail_1 26
+    2300170: rail_1 27
+    2300172: rail_1 28
+    2300174: rail_1 29
+    2300176: rail_1 3
+    2300178: rail_1 30
+    2300180: rail_1 31
+    2300182: rail_1 32
+    2300184: rail_1 33
+    2300186: rail_1 34
+    2300188: rail_1 35
+    2300190: rail_1 4
+    2300192: rail_1 5
+    2300194: rail_1 6
+    2300196: rail_1 7
+    2300198: rail_1 8
+    2300200: rail_1 9
+    3300000: bar_curved
+    3300002: bar_curved 1
+    3300004: bar_curved 2
+    3300006: bar_curved 3
+    3300008: bracket
+    3300010: bracket 1
+    3300012: bracket 2
+    3300014: bracket 3
+    3300016: crossbar
+    3300018: crossbar 1
+    3300020: crossbar 2
+    3300022: crossbar 3
+    3300024: //RootNode
+    3300026: ID105
+    3300028: ID113
+    3300030: ID123
+    3300032: ID131
+    3300034: ID139
+    3300036: ID147
+    3300038: ID155
+    3300040: ID16
+    3300042: ID16 1
+    3300044: ID16 10
+    3300046: ID16 11
+    3300048: ID16 12
+    3300050: ID16 13
+    3300052: ID16 14
+    3300054: ID16 15
+    3300056: ID16 16
+    3300058: ID16 17
+    3300060: ID16 18
+    3300062: ID16 19
+    3300064: ID16 2
+    3300066: ID16 20
+    3300068: ID16 21
+    3300070: ID16 22
+    3300072: ID16 23
+    3300074: ID16 24
+    3300076: ID16 25
+    3300078: ID16 26
+    3300080: ID16 27
+    3300082: ID16 28
+    3300084: ID16 29
+    3300086: ID16 3
+    3300088: ID16 30
+    3300090: ID16 31
+    3300092: ID16 32
+    3300094: ID16 33
+    3300096: ID16 34
+    3300098: ID16 35
+    3300100: ID16 4
+    3300102: ID16 5
+    3300104: ID16 6
+    3300106: ID16 7
+    3300108: ID16 8
+    3300110: ID16 9
+    3300112: ID161
+    3300114: ID169
+    3300116: ID97
+    3300118: post
+    3300120: post 1
+    3300122: post 2
+    3300124: post 3
+    3300126: post 4
+    3300128: post 5
+    3300130: rail_1
+    3300132: rail_1 1
+    3300134: rail_1 10
+    3300136: rail_1 11
+    3300138: rail_1 12
+    3300140: rail_1 13
+    3300142: rail_1 14
+    3300144: rail_1 15
+    3300146: rail_1 16
+    3300148: rail_1 17
+    3300150: rail_1 18
+    3300152: rail_1 19
+    3300154: rail_1 2
+    3300156: rail_1 20
+    3300158: rail_1 21
+    3300160: rail_1 22
+    3300162: rail_1 23
+    3300164: rail_1 24
+    3300166: rail_1 25
+    3300168: rail_1 26
+    3300170: rail_1 27
+    3300172: rail_1 28
+    3300174: rail_1 29
+    3300176: rail_1 3
+    3300178: rail_1 30
+    3300180: rail_1 31
+    3300182: rail_1 32
+    3300184: rail_1 33
+    3300186: rail_1 34
+    3300188: rail_1 35
+    3300190: rail_1 4
+    3300192: rail_1 5
+    3300194: rail_1 6
+    3300196: rail_1 7
+    3300198: rail_1 8
+    3300200: rail_1 9
+    4300000: SketchUp
+    4300002: ID97
+    4300004: ID105
+    4300006: ID113
+    4300008: ID123
+    4300010: ID131
+    4300012: ID139
+    4300014: ID147
+    4300016: ID155
+    4300018: ID161
+    4300020: ID169
+    4300022: rail_1
+    4300024: ID16
+    4300026: bracket
+    4300028: post
+    4300030: bar_curved
+    4300032: crossbar
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

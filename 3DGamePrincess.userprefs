@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Screen\SplashExtend.js">
+    <Files>
+      <File FileName="Assets\Resources\Screen\SplashExtend.js" Line="16" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Gabriel\Desktop\Projetos\Unity3D\GameProjects\3DGamePrincess\Assets\Resources\GameController\level\lvl2.cs" line="108" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Resources\Entity\Princess\Scripts\PrincessClass.cs" line="64" offsetX="373" offsetY="1071" expression="anim" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

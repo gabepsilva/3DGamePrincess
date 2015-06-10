@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 983d76d2a78459644af3b85e96af9d83
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tree_swamp-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_swamp-2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 830
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_swamp-3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 837
+        width: 98
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_swamp-4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 829
+        width: 99
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_swamp-5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 829
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_swamp-6
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 828
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 177
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 599
+        width: 168
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 602
+        width: 120
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 601
+        width: 106
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 603
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_australia-6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 603
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 154
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 416
+        width: 128
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 418
+        width: 112
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 415
+        width: 103
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 415
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_africa-6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 415
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 125
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 135
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 218
+        width: 101
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 218
+        width: 94
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 219
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_banana-6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 218
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 131
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 120
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 116
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_city-6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
