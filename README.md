@@ -12,9 +12,9 @@ Facts about:
 
 
 SCREENSHOTS
-
-![1](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/1.jpg?raw=true)
+![1](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/1.JPG?raw=true)
 ![2](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/2.jpg?raw=true)
 ![3](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/3.jpg?raw=true)
 ![4](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/4.jpg?raw=true)
 ![5](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/5.jpg?raw=true)
+![5](https://github.com/gabrielpsilva/3DGamePrincess/blob/master/SCREENSHOTS/6.jpg?raw=true)
